@@ -94,6 +94,6 @@ ___
        [id]: <http://example.com/>  "Optional Title Here"
 [A]:http://www.ituring.com.cn/article/775  "隐" 
 [链接三的显示][a]
-4. [b][]
+4. [隐式链接、冒号不可以是中文][]
 
-[b]: http://www.ituring.com.cn/article/775
+[隐式链接、冒号不可以是中文]: http://www.ituring.com.cn/article/775 "隐文"
