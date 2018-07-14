@@ -119,4 +119,13 @@ __2个下划线、文字、两个下划线强调__ 是粗体
 起始定界符之后、结束定界符之前紧跟着就要用到反引号时，可以用空格隔开，可以这样做的原因是定界符可以用空格隔开，如下`` `左侧尝试一个空格ha空格数量不限ha不显示空格ha右侧尝试10个空格`          ``
 
 # 《壬》图片
-![Alt text](https://baike.baidu.com/pic/孙悟空/5576/0/a8773912b31bb051fe6f82b5367adab44bede0e7?fr=lemma&ct=single#aid=0&pic=a8773912b31bb051fe6f82b5367adab44bede0e7)
+* ![Alt text](/path/to/img.jpg "Optional title")
+一个感叹号!开头；
+其后紧跟一对中括号，中括号内存放图片的alt`属性；
+其后紧跟一对小括号，小括号内存放图片的URL或路径，及可选的用双引号或单引号或小括号括起来的图片title
+* ![Alt text][id]
+[id]: url/to/image  "Optional title attribute"
+
+# 《癸》其他
+1.  自动连接
+<http://www.ituring.com.cn/article/775>
