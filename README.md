@@ -94,6 +94,6 @@ ___
        [id]: <http://example.com/>  "Optional Title Here"
 [A]:http://www.ituring.com.cn/article/775  "隐" 
 [链接三的显示][a]
-4. [lianjiesi] []
+4. [a][]
 
-[lianjiesi]：http://www.ituring.com.cn/article/775 
+[a]：http://www.ituring.com.cn/article/775
