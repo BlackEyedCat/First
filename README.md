@@ -95,4 +95,4 @@ ___
 [A]:http://www.ituring.com.cn/article/775  "隐" 
 [链接三的显示][a]
 4. [链接四][]
-[链接四]：  http://www.ituring.com.cn/article/775 "隐"
+[链接四]：  http://www.ituring.com.cn/article/775 
