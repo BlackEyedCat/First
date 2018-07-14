@@ -88,12 +88,19 @@ ___
 [链接1的显示](http://www.ituring.com.cn/article/775"接触时的显示 图灵社区")
 上面也说明可以直接放链接。
 2. [链接二的显示:引用一个本地资源或者同一站点的资源，可以使用相对路径](/README.md "隐式")
-3.     声明：[foo]: http://example.com/  "Optional Title Here" 行前不超过三个空格，【】后紧跟‘：’，‘：’后任意数空格，标识符不区分大小写
+3.    声明：[foo]: http://example.com/  "Optional Title Here" 行前不超过三个空格，【】后紧跟‘：’，‘：’后任意数空格，标识符不区分大小写
        [foo]: http://example.com/  'Optional Title Here'
        [foo]: http://example.com/  (Optional Title Here)
        [id]: <http://example.com/>  "Optional Title Here"
 [A]:http://www.ituring.com.cn/article/775  "隐" 
 [链接三的显示][a]
-4. [隐式链接、冒号不可以是中文][]
+4.  [隐式链接、冒号不可以是中文、名字可以有空格][]
 
-[隐式链接、冒号不可以是中文]: http://www.ituring.com.cn/article/775 "隐文"
+[隐式链接、冒号不可以是中文、名字可以有空格]: http://www.ituring.com.cn/article/775 "隐文"
+
+# 《庚》强调
+*‘*’文字‘*’*强调
+_下划线、文字、下划线强调_
+**“**”文字“**”强调**
+__2个下划线、文字、两个下划线强调__
+
